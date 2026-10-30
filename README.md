@@ -1,8 +1,3 @@
-# Brave Origin for Gentoo
+# gentoo-overlay
 
-A Gentoo overlay providing `www-client/brave-origin-bin`, built from
-Brave’s official standalone Origin binary releases.
-
-# Status
-
-WIP
+My personal Gentoo overlay.
